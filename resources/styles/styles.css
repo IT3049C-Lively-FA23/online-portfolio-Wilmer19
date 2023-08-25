@@ -1,0 +1,26 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 2%;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+h2 {
+  text-align: center;
+  padding: 1%;
+}
+
+body {
+  background-color: #D5F9FF;
+}
+
+ul,
+ol {
+  padding-left: 38%;
+}
